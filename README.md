@@ -186,7 +186,7 @@ This project is part of an internship assignment at Anurva Advanced Techserve Pv
 
 - Anurva Advanced Techserve Pvt Ltd (AAT Groups)
 - Apoorva for guidance and support
-- Vidyavardhaka College of Engineering
+
 
 ##  References
 
